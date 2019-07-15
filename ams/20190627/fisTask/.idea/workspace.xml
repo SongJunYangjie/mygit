@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : springboot.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="19ccbd4a-8f7c-4cd4-8a7a-0e7795dfd166" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fisservice/lib/BJCA-SecX2.7.1-2.0-2.7.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fisservice/lib/caf-utils-2.0.1-jdk1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/clientProxy-2.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/caf-utils-2.0.1-jdk1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fisservice/lib/clientProxy-2.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../amswebservice/lib/clientProxy-2.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../amswebservice/lib/BJCA-SecX2.7.1-2.0-2.7.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/BJCA-SecX2.7.1-2.0-2.7.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../amswebservice/lib/jaxrpc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../amswebservice/lib/caf-utils-2.0.1-jdk1.7.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsApplyDownloadUtil.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsApplyDownloadUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/claim/controller/AccountPayController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/claim/controller/AccountPayController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/KryoRedisSerializer.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/KryoRedisSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/ehcache/EhCacheConfig.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/ehcache/EhCacheConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsBizprivilegeDepartmentServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsBizprivilegeDepartmentServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/build.gradle" afterPath="$PROJECT_DIR$/../fisservice/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/rpcm/controller/AgeendBadGatherController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/rpcm/controller/AgeendBadGatherController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/sso/SSOMController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/sso/SSOMController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/resources/application-local.properties" afterPath="$PROJECT_DIR$/../fisservice/src/main/resources/application-local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/sso/SSOFilterCtrl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/sso/SSOFilterCtrl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-dev.properties" afterPath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-dev.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../amswebservice/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../amswebservice/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/controller/AmsOrderApplyForController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/controller/AmsOrderApplyForController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/msg/service/impl/HttpMsgServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/msg/service/impl/HttpMsgServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../amswebservice/build.gradle" afterPath="$PROJECT_DIR$/../amswebservice/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-prod.properties" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/AmsPayAdapterService.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/AmsPayAdapterService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClusterFactory.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClusterFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsBizprivilegeAndSubServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsBizprivilegeAndSubServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/impl/AmsPayAdapterServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/impl/AmsPayAdapterServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsUserChannelTcRedis.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsUserChannelTcRedis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/controller/AmsCacheLoadTdController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/controller/AmsCacheLoadTdController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/service/impl/AmsRealauthTcServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/service/impl/AmsRealauthTcServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/controller/AmsPaymentClaimController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/controller/AmsPaymentClaimController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisConfiguration.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-cpicTest.properties" afterPath="$PROJECT_DIR$/src/main/resources/application-cpicTest.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsSwitchDetailTcRedis.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsSwitchDetailTcRedis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/resources/application-sit.properties" afterPath="$PROJECT_DIR$/../fisservice/src/main/resources/application-sit.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/workplatform/controller/AmsWorkplatformController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/workplatform/controller/AmsWorkplatformController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/resources/application-cpicTest.properties" afterPath="$PROJECT_DIR$/../fisservice/src/main/resources/application-cpicTest.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClusterConfig.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClusterConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsCacheLoadTdServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsCacheLoadTdServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/impl/AmsCashierPayServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/impl/AmsCashierPayServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/LoadRedisData.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/LoadRedisData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/financeReview/service/impl/AmsFinancecheckServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/financeReview/service/impl/AmsFinancecheckServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountImpDataTdController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountImpDataTdController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClient.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/coinsurance/service/impl/AmsAmortizeDetailTdServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/coinsurance/service/impl/AmsAmortizeDetailTdServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../fisservice/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/interceptor/interceptors/InterfaceInerceptor.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/interceptor/interceptors/InterfaceInerceptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/InitResourceManm.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/InitResourceManm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsCheckPolicyStartDate.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsCheckPolicyStartDate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/controller/RedisController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/controller/RedisController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountImpDataDetailTdController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountImpDataDetailTdController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-uat.properties" afterPath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-uat.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/DataSourceSubConfiguration.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/DataSourceSubConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-sit.properties" afterPath="$PROJECT_DIR$/src/main/resources/application-sit.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/controller/AmsPayGatewayController.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/controller/AmsPayGatewayController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/mirror/controller/AmsPolicyReceivAbleInfo.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/mirror/controller/AmsPolicyReceivAbleInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-local.properties" afterPath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsOrderApplyRedis.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsOrderApplyRedis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-sit.properties" afterPath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-sit.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/JdbcTemplateConfiguration.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/JdbcTemplateConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisProxy.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-prod.properties" afterPath="$PROJECT_DIR$/../amswebservice/src/main/resources/application-prod.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/service/impl/AmsAccountPaymentClaimServiceImpl.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/service/impl/AmsAccountPaymentClaimServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-local.properties" afterPath="$PROJECT_DIR$/src/main/resources/application-local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/resources/application-dev.properties" afterPath="$PROJECT_DIR$/../fisservice/src/main/resources/application-dev.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisPoolConfig.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisPoolConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/resources/application-prod.properties" afterPath="$PROJECT_DIR$/../fisservice/src/main/resources/application-prod.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/LoadExcelTemplate.java" afterPath="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/LoadExcelTemplate.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/../firstweb/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../firstweb/build/" />
+    <ignored path="$PROJECT_DIR$/../fisservice/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../fisservice/build/" />
+    <ignored path="$PROJECT_DIR$/../fisservice/out/" />
+    <ignored path="$PROJECT_DIR$/../amswebservice/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../amswebservice/build/" />
+    <ignored path="$PROJECT_DIR$/../amswebservice/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="Oracle - @192.168.10.135" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../amswebservice">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../firstweb">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../fisservice">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../firstweb">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fisservice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fisservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fisservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fisservice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fisTask" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jaxrpc</find>
+      <find>10.197.35.113:18113:amsdb</find>
+      <find>checkAccountImpDataDetailTdAndMmUsablemoneyTd</find>
+      <find>getDataSourc</find>
+      <find>SLAVE02</find>
+      <find>dataSource</find>
+      <find>redis</find>
+      <find>spring-contr</find>
+      <find>SLAVE01</find>
+      <find>dataSourceS</find>
+      <find>amsPayAdapterService</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$/../amswebservice" value="D:\tools\gradle-3.5.1-bin\gradle-3.5.1" />
+        <entry key="$PROJECT_DIR$/../firstweb" value="D:\tools\gradle-3.5.1-bin\gradle-3.5.1" />
+        <entry key="$PROJECT_DIR$" value="D:\tools\gradle-3.5.1-bin\gradle-3.5.1" />
+        <entry key="$PROJECT_DIR$/../fisservice" value="D:\tools\gradle-3.5.1-bin\gradle-3.5.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$/../amswebservice" value="3.5.1" />
+        <entry key="$PROJECT_DIR$/../firstweb" value="3.5.1" />
+        <entry key="$PROJECT_DIR$" value="3.5.1" />
+        <entry key="$PROJECT_DIR$/../fisservice" value="3.5.1" />
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../amswebservice/build.gradle" value="1767316714" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="971206619" />
+        <entry key="$PROJECT_DIR$/../fisservice/build.gradle" value="2492434772" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../fisservice/src/main/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/resources/application-sit.properties" />
+        <option value="$PROJECT_DIR$/../fisservice/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/../amswebservice/build.gradle" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClusterFactory.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/impl/AmsCashierPayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/ehcache/EhCacheConfig.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/KryoRedisSerializer.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClusterConfig.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisConfiguration.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisPoolConfig.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/impl/AmsPayAdapterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClient.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisProxy.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsSwitchDetailTcRedis.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/LoadRedisData.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/controller/AmsCacheLoadTdController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsOrderApplyRedis.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsUserChannelTcRedis.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsBizprivilegeDepartmentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsBizprivilegeAndSubServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/sso/SSOFilterCtrl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/sso/SSOMController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/claim/controller/AccountPayController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/coinsurance/service/impl/AmsAmortizeDetailTdServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/interceptor/interceptors/InterfaceInerceptor.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/msg/service/impl/HttpMsgServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/controller/AmsPaymentClaimController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/service/impl/AmsAccountPaymentClaimServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/service/impl/AmsRealauthTcServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/financeReview/service/impl/AmsFinancecheckServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/rpcm/controller/AgeendBadGatherController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsCacheLoadTdServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsApplyDownloadUtil.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsCheckPolicyStartDate.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountImpDataDetailTdController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/workplatform/controller/AmsWorkplatformController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountImpDataTdController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/JdbcTemplateConfiguration.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/DatabaseConfig.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/DataSourceSubConfiguration.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/resources/application-cpicTest.properties" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/mirror/controller/AmsPolicyReceivAbleInfo.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/AmsPayAdapterService.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/controller/AmsOrderApplyForController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/controller/AmsPayGatewayController.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/LoadExcelTemplate.java" />
+        <option value="$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/InitResourceManm.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="46" />
+    <option name="y" value="81" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/ProgrammingTechnology/ams/20190627/fisTask" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/../fisservice" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Oracle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming Technology\ams\20190627\amswebservice\lib" />
+      <recent name="D:\Programming Technology\ams\20190627\fisservice\lib" />
+      <recent name="D:\Programming Technology\ams\20190627\fisTask\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.springboot">
+    <configuration name="FisAmsTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fndsoft.FisAmsTaskApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="VM_PARAMETERS" value="-Xms768m -Xmx768m -XX:PermSize=64M -XX:MaxPermSize=512m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="fisTask_main" />
+      <envs />
+    </configuration>
+    <configuration name="RuleEngineServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fndsoft.cpic.RuleEngineServiceApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="VM_PARAMETERS" value="-Xms768m -Xmx768m -XX:PermSize=64M -XX:MaxPermSize=512m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="fisservice_main" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="springboot" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.69" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms256m -Xmx256m -XX:MaxNewSize=256m -XX:MaxPermSize=256m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : springboot.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_fisTask_3" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5648" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : springboot.war" />
+        </option>
+      </method>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.FisAmsTaskApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.RuleEngineServiceApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.springboot" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\宋军\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\amswebservice\src\main" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\amswebservice\src\main" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\amswebservice\src\test" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\amswebservice\src\test" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\fisservice\src\main" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\fisservice\src\main" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\fisTask\src\main" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\fisTask\src\main" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\fisTask\src\test" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\fisTask\src\test" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\amswebservice\src\main" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\amswebservice\src\main" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\amswebservice\src\test" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\amswebservice\src\test" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\fisservice\src\main" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\fisservice\src\main" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\fisTask\src\main" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\fisTask\src\main" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Programming Technology\ams\20190627\fisTask\src\test" />
+          <option name="myCopyRoot" value="D:\Programming Technology\ams\20190627\fisTask\src\test" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19ccbd4a-8f7c-4cd4-8a7a-0e7795dfd166" name="Default" comment="" />
+      <created>1562820130515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562820130515</updated>
+      <workItem from="1562820132212" duration="11329000" />
+      <workItem from="1562833051314" duration="9999000" />
+      <workItem from="1562893513118" duration="592000" />
+      <workItem from="1562894819823" duration="33000" />
+      <workItem from="1562894863402" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22022000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Git Scope" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7488789" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="1024 Tools" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17726162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49327356" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28545234" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Git Scope" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49327356" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6233184" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="1024 Tools" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17542787" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28545234" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/DataSourceSubConfiguration.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/DataSourceSubConfiguration.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/JdbcTemplateConfiguration.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/JdbcTemplateConfiguration.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/LoadRedisData.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/controller/AmsCacheLoadTdController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/controller/RedisController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsOrderApplyRedis.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/rds/AmsUserChannelTcRedis.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsBizprivilegeDepartmentServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsBizprivilegeAndSubServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/sso/SSOFilterCtrl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/sso/SSOMController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/claim/controller/AccountPayController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configer/interceptor/interceptors/InterfaceInerceptor.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/coinsurance/service/impl/AmsAmortizeDetailTdServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/msg/service/impl/HttpMsgServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/coinsurance/service/impl/AmsAmortizemodelTdServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/controller/AmsPaymentClaimController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/service/impl/AmsAccountPaymentClaimServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/examine/service/impl/AmsRealauthTcServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/financeReview/service/impl/AmsFinancecheckServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/rpcm/controller/AgeendBadGatherController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/system/service/impl/AmsCacheLoadTdServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsApplyDownloadUtil.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsCheckPolicyStartDate.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisProxy.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisPoolConfig.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClusterFactory.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClusterConfig.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/cache/redis/RedisClient.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/bean/ConsumNoticeVO.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/util/AmsConsumNoticePDFUtil.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountGroupController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/resources/application-dev.properties" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountImpDataDetailTdController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/dao/impl/AmsAccountImpDataDetailTdBranchDaoImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/service/impl/AmsAccountImpDataDetailTdServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/bankdata/controller/AmsAccountImpDataTdController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/JdbcTemplateConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/resources/application-local.properties" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/JdbcParam.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/DatabaseConfig.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/configuration/DataSourceSubConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/resources/application-cpicTest.properties" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/workplatform/controller/AmsWorkplatformController.java" />
+    <entry file="jar://D:/tools/repositorys/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.31/5ade5e787bcaabb9d088d8e4b22a8edffa43a783/tomcat-embed-core-8.5.31-sources.jar!/org/apache/catalina/util/LifecycleBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/mirror/controller/AmsPolicyReceivAbleInfo.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/AmsPayAdapterService.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/service/impl/AmsPayAdapterServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/controller/AmsOrderApplyForController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/InitResourceManm.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/module/orderProcessing/controller/AmsPayGatewayController.java" />
+    <entry file="file://$PROJECT_DIR$/../fisservice/src/main/java/com/fndsoft/cpic/commons/init/LoadExcelTemplate.java" />
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : fisTask.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fisservice_main|fisservice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
